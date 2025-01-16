@@ -12,7 +12,7 @@ def mul(x, y):
     return x * y
 
 def div(x, y):
-    return x / y
+    return x // y
 
 if o == "+":
     result = plus(a, c)
